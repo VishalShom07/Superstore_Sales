@@ -1,0 +1,10 @@
+1. Find the top 3 customers in each region based on total sales.
+2. Calculate month-over-month sales growth percentage for each category.
+3. Find customers whose sales increased consecutively for at least 3 orders.
+4. Identify the city with the highest average order value in each state.
+5. Find the percentage contribution of each sub_category within its category.
+6. Calculate the average time gap between consecutive orders for each customer.
+7. Find products that generated sales in every year available in the dataset.
+8. Identify customers whose total sales are above the overall average customer sales.
+9. Find the top-selling product in each segment and region combination.
+10. Calculate customer retention rate month-by-month based on repeat purchases.

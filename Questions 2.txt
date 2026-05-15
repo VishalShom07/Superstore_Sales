@@ -1,0 +1,10 @@
+1. Find the number of orders in each region.
+2. Find the top 5 cities with the highest total sales.
+3. Calculate monthly total sales using order_date.
+4. Find the most used ship_mode and its count.
+5. Find the top 10 customers by total sales.
+6. Find customers who placed orders in more than 3 different months.
+7. Calculate the percentage contribution of each category to total sales.
+8. Find customers who made purchases in consecutive months.
+9. Calculate average shipping delay for each ship_mode and identify the fastest one.
+10. For every state, find the sub-category with the highest total sales.
