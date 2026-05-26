@@ -1,0 +1,13 @@
+segment,region,product_id,total_sales
+Consumer,Central,10000545,9892.74
+Consumer,East,10004722,18899.95
+Consumer,South,10001127,11374.93
+Consumer,West,10004722,13999.96
+Corporate,Central,10004722,17499.95
+Corporate,East,10001047,14299.89
+Corporate,South,10004125,7999.98
+Corporate,West,10003527,7117.54
+Home Office,Central,10003527,4575.56
+Home Office,East,10004722,11199.97
+Home Office,South,10002412,22638.48
+Home Office,West,10003973,5055.93
